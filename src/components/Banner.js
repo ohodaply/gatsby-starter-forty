@@ -8,7 +8,7 @@ const Banner = props => (
       </header>
       <div className="content">
         <p>
-          A responsive site template designed by HTML5 UP!!!
+          A responsive site template designed by HTML5 UP!?
           <br />
           and released under the Creative Commons.
         </p>
